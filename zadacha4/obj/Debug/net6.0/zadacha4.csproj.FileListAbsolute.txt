@@ -1,0 +1,15 @@
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\bin\Debug\net6.0\zadacha4.exe
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\bin\Debug\net6.0\zadacha4.deps.json
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\bin\Debug\net6.0\zadacha4.runtimeconfig.json
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\bin\Debug\net6.0\zadacha4.dll
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\bin\Debug\net6.0\zadacha4.pdb
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\obj\Debug\net6.0\zadacha4.csproj.AssemblyReference.cache
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\obj\Debug\net6.0\zadacha4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\obj\Debug\net6.0\zadacha4.AssemblyInfoInputs.cache
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\obj\Debug\net6.0\zadacha4.AssemblyInfo.cs
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\obj\Debug\net6.0\zadacha4.csproj.CoreCompileInputs.cache
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\obj\Debug\net6.0\zadacha4.dll
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\obj\Debug\net6.0\refint\zadacha4.dll
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\obj\Debug\net6.0\zadacha4.pdb
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\obj\Debug\net6.0\zadacha4.genruntimeconfig.cache
+C:\Users\L1GHT\Desktop\Учёба\python\Domashniezadaniya\Lesson1\zadacha4\obj\Debug\net6.0\ref\zadacha4.dll
